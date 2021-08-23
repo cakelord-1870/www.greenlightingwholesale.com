@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.greenlightingwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.greenlightingwholesale.com/collections/made-in-the-usa.atom"/>
+  <title>Green Lighting Wholesale</title>
+  <updated>2014-03-27T14:15:00-04:00</updated>
+  <author>
+    <name>Green Lighting Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/274910861</id>
+    <published>2014-03-27T14:15:00-04:00</published>
+    <updated>2014-03-27T14:15:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/4-lamp-t8-2x4-parabolic-troffer-18-cell-surface-mount"/>
+    <title>Parabolic 2x4 Troffer 4 Lamp T8 18 Cell Surface Mount</title>
+    <s:type>Flourescent Troffer Fixtures</s:type>
+    <s:vendor>Mobern</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/spr-series.jpg?v=1489083499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mobern<br>
+        <strong>Type: </strong>Flourescent Troffer Fixtures<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Premium surface mounted deep cell parabolic fixture designed for maximum efficiency and visual comfort. Ideal for commercial and industrial buildings requiring general illumination with surface configurations and low glare.</p>
+<br>
+<ul>
+<li><a href="http://www.mobern.com/p3-advantage.html" title="Click Here to Learn About P3 Technology">P3 Technology - Post Powder Paint</a></li>
+<li>&gt;90% Reflectivity</li>
+<li>Corrosion and scratch resistant</li>
+<li>Smooth edges for easy handling</li>
+<li>Clean appearance with no exposed fasteners</li>
+<li>Low iridescent louver is maintenance free semi-specular anodized aluminum</li>
+<li>Louver hinges and latches from either side</li>
+<li>Black reveal provides gap free floating louver appearance</li>
+<li>Various cell configurations available</li>
+<li>Pre-lamp available</li>
+<li>Every fixture is individually tested</li>
+<li>UL listed for damp locations</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ceiling Fixtures</s:tag>
+    <s:tag>Flourescent Troffer Fixtures</s:tag>
+    <s:tag>made in the USA</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/274910861</id>
+      <title>4 Lamp T8 2x4 Parabolic Troffer 18 Cell Surface Mount</title>
+      <s:price currency="USD">135.00</s:price>
+      <s:sku>SPR24-43218MV</s:sku>
+      <s:grams>11340</s:grams>
+    </s:variant>
+  </entry>
+</feed>

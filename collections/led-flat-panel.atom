@@ -1,0 +1,3188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.greenlightingwholesale.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.greenlightingwholesale.com/collections/led-flat-panel.atom"/>
+  <title>Green Lighting Wholesale</title>
+  <updated>2021-06-21T16:02:45-04:00</updated>
+  <author>
+    <name>Green Lighting Wholesale</name>
+  </author>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/6579862110302</id>
+    <published>2021-06-21T16:02:45-04:00</published>
+    <updated>2021-06-21T16:02:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/blink-plus-profile-45w-24-x-24-surface-mount-led-3000k-gun-metal-finish-100-277v"/>
+    <title>Blink Plus Profile - 45W- 24&quot; x 24&quot; Surface Mount LED - 3000K - Gun Metal Finish - 100-277V</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Satco</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/62-1173.jpg?v=1624305764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Satco<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            155.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Blink Plus Profile - 45W- 24" x 24" Surface Mount LED - 3000K - Gun Metal Finish - 100-277V</strong></p>
+<div style="margin: 0px; padding: 0px;" class="w3-cell-row">
+<div style="margin: 0px; padding: 0px; text-align: right;" class="w3-container w3-cell"><a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer"> </a></div>
+</div>
+<div style="padding: 15px;" class="w3-row w3-darkblue spec-header basic"><strong>General</strong></div>
+<strong></strong>
+<p> </p>
+<table data-test="1" class="w3-table w3-striped spec-table basic" id="attr-category-General" cellspacing="0">
+<tbody>
+<tr class="spec-row">
+<td class="spec-item w3-half">Status</td>
+<td class="attribute-value w3-half"><span id="attr-Status" class="sugar_field">Active</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Fixture Type</td>
+<td class="attribute-value w3-half"><span id="attr-Fixture Type" class="sugar_field">BLINK Plus</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Finish</td>
+<td class="attribute-value w3-half"><span id="attr-Finish" class="sugar_field">Gunmetal Gray</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Wattage</td>
+<td class="attribute-value w3-half"><span id="attr-Wattage" class="sugar_field">45</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Lumen Output</td>
+<td class="attribute-value w3-half"><span id="attr-Lumen Output" class="sugar_field">3500</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">CCT (Kelvin)</td>
+<td class="attribute-value w3-half"><span id="attr-CCT (Kelvin)" class="sugar_field">3000</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Indoor or Outdoor Fixture</td>
+<td class="attribute-value w3-half"><span id="attr-Indoor or Outdoor Fixture" class="sugar_field">Indoor</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<div style="padding: 15px;" class="w3-row w3-darkblue spec-header extended"><a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer">Specifications</a></div>
+<a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer"><strong></strong></a>
+<p> </p>
+<table data-test="1" class="w3-table w3-striped spec-table extended" id="attr-category-Specifications" cellspacing="0">
+<tbody>
+<tr class="spec-row">
+<td class="spec-item w3-half">Technology</td>
+<td class="attribute-value w3-half"><span id="attr-Technology" class="sugar_field">LED</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Wattage</td>
+<td class="attribute-value w3-half"><span id="attr-Wattage" class="sugar_field">45</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Lumen Output</td>
+<td class="attribute-value w3-half"><span id="attr-Lumen Output" class="sugar_field">3500</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">CCT (Kelvin)</td>
+<td class="attribute-value w3-half"><span id="attr-CCT (Kelvin)" class="sugar_field">3000</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Color Temperature</td>
+<td class="attribute-value w3-half"><span id="attr-Color Temperature" class="sugar_field">Warm White</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">CRI</td>
+<td class="attribute-value w3-half"><span id="attr-CRI" class="sugar_field">90</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Voltage</td>
+<td class="attribute-value w3-half"><span id="attr-Voltage" class="sugar_field">100V-277V</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Rated Hours</td>
+<td class="attribute-value w3-half"><span id="attr-Rated Hours" class="sugar_field">50000</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Operating Temperature</td>
+<td class="attribute-value w3-half"><span id="attr-Operating Temperature" class="sugar_field">-17C (+1.4F) to a maximum of +45C (+113F)</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Dimmable</td>
+<td class="attribute-value w3-half"><span id="attr-Dimmable" class="sugar_field">Yes-Dimmable</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Weight (lb.)</td>
+<td class="attribute-value w3-half"><span id="attr-Weight (lb.)" class="sugar_field">10.27</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Material</td>
+<td class="attribute-value w3-half"><span id="attr-Material" class="sugar_field">Aluminum</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<div style="padding: 15px;" class="w3-row w3-darkblue spec-header extended"><a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer">Dimensions</a></div>
+<a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer"><strong></strong></a>
+<p> </p>
+<table data-test="1" class="w3-table w3-striped spec-table extended" id="attr-category-Dimensions" cellspacing="0">
+<tbody>
+<tr class="spec-row">
+<td class="spec-item w3-half">Height (in.)</td>
+<td class="attribute-value w3-half"><span id="attr-Height (in.)" class="sugar_field">1.00</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Width (in.)</td>
+<td class="attribute-value w3-half"><span id="attr-Width (in.)" class="sugar_field">24.00</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Length (in.)</td>
+<td class="attribute-value w3-half"><span id="attr-Length (in.)" class="sugar_field">24.00</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<div style="padding: 15px;" class="w3-row w3-darkblue spec-header extended"><a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer">Compliance</a></div>
+<a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer"><strong></strong></a>
+<p> </p>
+<table data-test="1" class="w3-table w3-striped spec-table extended" id="attr-category-Compliance" cellspacing="0">
+<tbody>
+<tr class="spec-row">
+<td class="spec-item w3-half">Safety Listing</td>
+<td class="attribute-value w3-half"><span id="attr-Safety Listing" class="sugar_field">cETLus</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Location Rating</td>
+<td class="attribute-value w3-half"><span id="attr-Location Rating" class="sugar_field">Damp</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">UL Application</td>
+<td class="attribute-value w3-half"><span id="attr-UL Application" class="sugar_field">Ceiling</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Closet Rated</td>
+<td class="attribute-value w3-half"><span id="attr-Closet Rated" class="sugar_field">Yes</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Energy Star</td>
+<td class="attribute-value w3-half"><span id="attr-Energy Star" class="sugar_field">Yes</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">ES Unique ID</td>
+<td class="attribute-value w3-half"><span id="attr-ES Unique ID" class="sugar_field">ESID-2291239</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">California Status</td>
+<td class="attribute-value w3-half"><span id="attr-California Status" class="sugar_field">California T24 Compliant</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">California Prop 65</td>
+<td class="attribute-value w3-half">
+<div class="link-auto link-ca_prop_65" onclick="showPopup('ca_prop_65');">Lead</div>
+</td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">RoHS Compliant</td>
+<td class="attribute-value w3-half"><span id="attr-RoHS Compliant" class="sugar_field">Yes</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">FCC Compliant</td>
+<td class="attribute-value w3-half"><span id="attr-FCC Compliant" class="sugar_field">Yes</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<div style="padding: 15px;" class="w3-row w3-darkblue spec-header extended"><a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer">Additional Information</a></div>
+<a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer"><strong></strong></a>
+<p> </p>
+<table data-test="1" class="w3-table w3-striped spec-table extended" id="attr-category-Additional Information" cellspacing="0">
+<tbody>
+<tr class="spec-row">
+<td class="spec-item w3-half"><strong>Warranty</strong></td>
+<td class="attribute-value w3-half"><span id="attr-Warranty" class="sugar_field"><a href="http://www.satco.com/support/warranty/5_Year_Limited_-_Fixtures.phtml" class="link-auto link-warranty">5 Year Limited - Fixtures</a></span></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<div style="padding: 15px;" class="w3-row w3-darkblue spec-header extended"><a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer">Packaging</a></div>
+<a href="https://media.satco.com/specsheetsp/pdf/62-1173" target="_blank" rel="noopener noreferrer"><strong></strong></a>
+<p> </p>
+<table data-test="1" class="w3-table w3-striped spec-table extended" id="attr-category-Packaging" cellspacing="0">
+<tbody>
+<tr class="spec-row">
+<td class="spec-item w3-half">Each UPC</td>
+<td class="attribute-value w3-half"><span id="attr-Each UPC" class="sugar_field">045923511738</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Each Quantity</td>
+<td class="attribute-value w3-half"><span id="attr-Each Quantity" class="sugar_field">1</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Each Length (in.)</td>
+<td class="attribute-value w3-half"><span id="attr-Each Length (in.)" class="sugar_field">26.57</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Each Width (in.)</td>
+<td class="attribute-value w3-half"><span id="attr-Each Width (in.)" class="sugar_field">26.57</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Each Height (in.)</td>
+<td class="attribute-value w3-half"><span id="attr-Each Height (in.)" class="sugar_field">2.24</span></td>
+</tr>
+<tr class="spec-row">
+<td class="spec-item w3-half">Each Weight (lb.)</td>
+<td class="attribute-value w3-half"><span id="attr-Each Weight (lb.)" class="sugar_field">10.81</span></td>
+</tr>
+</tbody>
+</table>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED  Panel/ Lay In Fixtures</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/6579862110302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">155.98</s:price>
+      <s:sku>62-1173</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/6545145299038</id>
+    <published>2021-03-22T14:59:20-04:00</published>
+    <updated>2021-03-22T14:59:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/volumetric-troffer-2x2-powerset-40-32-26w-80cri-3500k-120-347v-0-10v-dimming"/>
+    <title>Volumetric Troffer 2x2 PowerSet 40/32/26W 80CRI 3500K 120-347V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1427.jpg?v=1616439603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Volumetric Troffer 2x2 PowerSet 40/32/26W 80CRI 3500K 120-347V 0-10V Dimming</strong></p>
+<div class="product-heading">
+<h2 class="hidden-xs">VOL22/PS40/835/HD <img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png" style="border: 0px; padding-right: 2px;"> <img src="https://www.eiko.com/Content/flags/flags/16/Canada.png" style="border: 0px; padding-right: 2px;">
+</h2>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-88B%20VOL%20PowerSet%20FieldCCeT.pdf" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></p>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:10992 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293109927</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<div class="col-xs-12">
+<div class="logo-listing"><br></div>
+<div class="logo-listing">
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed" style="width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;" colspan="2">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120–347
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">26/32/40
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">130
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">3250/4000/5000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CCT</strong></td>
+<td style="padding-left: 12px;">3500
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Replaces</strong></td>
+<td style="padding-left: 12px;">VOL-3CP-35K-U
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, DLC, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DesignLights Consortium</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED 2x2 Retrofit</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:tag>Power-Set</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/6545145299038</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>VOL22/PS40/835/HD</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/6537950822494</id>
+    <published>2021-03-03T11:15:17-05:00</published>
+    <updated>2021-03-03T11:15:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/maxlite-flatmax-led-2x4-flat-panel-fixture-multi-watt-adjustable-color"/>
+    <title>MaxLite FlatMAX LED 2x4 Flat Panel Fixture, Multi-Watt, Adjustable Color</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>MaxLite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/MLFP24G427WCS.jpg?v=1614788178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MaxLite<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            79.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>MaxLite FlatMAX LED 2x4 Flat Panel Fixture, Multi-Watt, Adjustable Color</strong></p>
+<p><a href="https://websvc.maxlite.com/api/items/documents/MLFP24G427WCS?type=datasheet" target="_blank" rel="noopener noreferrer"><strong><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></strong></a></p>
+<p><strong><span style="left: 524.783px; top: 206.166px; font-size: 20px; font-family: sans-serif; transform: scaleX(1.09406);">Product Description:</span></strong><span style="left: 524.783px; top: 230.358px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01715);">A seamless replacement for 1’x4’, 2’x2’ and 2’x4’ fluorescent fixtures, </span><span style="left: 524.783px; top: 247.358px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.0054);">MaxLite’s next-generation LED Flat Panels are designed to lay in </span><span style="left: 524.783px; top: 264.358px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01623);">drop ceilings in offices, schools, and healthcare applications. The </span><span style="left: 524.783px; top: 281.358px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01191);">panels produce highly efficient, uniform illumination, and offer the </span><span style="left: 524.783px; top: 298.359px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.0133);">versatility of field-selectable color temperatures and wattages to suit </span><span style="left: 524.783px; top: 315.359px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01223);">various application needs. The panels are fully dimmable, and may </span><span style="left: 524.783px; top: 332.359px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01805);">be combined with motion sensors for further energy savings. MaxLite </span><span style="left: 524.783px; top: 349.358px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01253);">panels deliver all the benefits of LED technology, including a long life </span><span style="left: 524.783px; top: 366.358px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01905);">with high lumen maintenance, reduced energy consumption and lower </span><span style="left: 524.783px; top: 383.359px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01611);">maintenance costs.</span></p>
+<p><strong><span style="left: 524.783px; top: 383.359px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01611);"> </span><span style="left: 524.783px; top: 412.233px; font-size: 20px; font-family: sans-serif; transform: scaleX(1.05402);">Features:</span><span style="left: 524.783px; top: 436.092px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.22463);">•</span></strong><span style="left: 524.783px; top: 436.092px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.22463);"> </span><span style="left: 541.343px; top: 436.092px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00401);">Field Wattage and CCT Selectable</span><span style="left: 524.783px; top: 455.459px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.22463);">• </span><span style="left: 541.343px; top: 455.459px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.05266);">Fixtures are set to lowest wattage and 4000K as </span><span style="left: 524.783px; top: 472.125px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.06644);"> default factory setting</span><span style="left: 524.783px; top: 491.492px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.22463);">• </span><span style="left: 541.343px; top: 491.492px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.00589);">Fixed Wattage units also available</span><span style="left: 524.783px; top: 510.859px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.22463);">• </span><span style="left: 541.343px; top: 510.859px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.01414);">0-10V Dimmable</span><span style="left: 524.783px; top: 530.225px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.22463);">• </span><span style="left: 541.343px; top: 530.225px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.994185);">Voltage: 120-277V</span><span style="left: 524.783px; top: 549.592px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(1.22463);">• </span><span style="left: 541.343px; top: 549.592px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.99003);">L70 Lumen Maintenance ≥100,000 at 40°C (104°F)</span><strong><span style="left: 541.343px; top: 549.592px; font-size: 14.1667px; font-family: sans-serif; transform: scaleX(0.99003);"> </span></strong></p>
+<div class="col-md-6">
+<div class="info-box">
+<div class="info-box-title"><strong>Performance</strong></div>
+<div class="info-box-content">
+<div class="d-flex w-100 justify-content-between">
+<span>Watts (W)</span> <strong>27/36/45</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Voltage (V)</span> <strong>120-277</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Delivered Lumens (lm)</span> <strong>3100/4000/4900</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Efficacy (lm/W)</span> <strong>110</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Color Rendering Index (CRI)</span> <strong>≥80</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Color Temperature (K)</span> <strong>3500/4000/5000</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Beam Angle</span> <strong>120</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Power Factor</span> <strong>0.90</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Min. Ambient Temp (°F)</span> <strong>-4</strong>
+</div>
+<div class="d-flex w-100 justify-content-between">
+<span>Max. Ambient Temp (°F)</span> <strong>104</strong>
+</div>
+<div class="d-flex w-100 justify-content-between"><strong></strong></div>
+<div class="d-flex w-100 justify-content-between"><strong></strong></div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color Select</s:tag>
+    <s:tag>DesignLights Consortium</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:tag>Power-Set</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/6537950822494</id>
+      <title>Default Title</title>
+      <s:price currency="USD">79.50</s:price>
+      <s:sku>MLFP24G427WCS</s:sku>
+      <s:grams>4491</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4816519528542</id>
+    <published>2021-01-20T15:03:54-05:00</published>
+    <updated>2021-01-20T15:03:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/back-lit-panel-2x4-powerset-50-40-30w-110lpw-80cri-4000k-120-277v-0-10v-dimming"/>
+    <title>Back-Lit Panel 2x4 PowerSet 50/40/30W 110lpw 80CRI 4000K 120-277V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1385_2f57c4de-688e-455c-b305-8e5ebe58e839.jpg?v=1611173138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Back-Lit Panel 2x4 PowerSet 50/40/30W 110lpw 80CRI 4000K 120-277V 0-10V Dimming</h3>
+<div class="col-sm-4 col-md-5 md-margin-bottom-50">
+<div style="position: relative;" class="ms-showcase2-template">
+<div style="visibility: visible; opacity: 1; margin: 0px;" id="masterslider" class="master-slider ms-skin-light-3 ms-moz"><br></div>
+</div>
+</div>
+<div class="col-sm-8 col-md-7 product-detail">
+<div class="product-heading">
+<h2 class="hidden-xs">BLP24/PS50/840/UD <img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png" style="border: 0px; padding-right: 2px;"> <img src="https://www.eiko.com/Content/flags/flags/16/Canada.png" style="border: 0px; padding-right: 2px;">
+</h2>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-33B%20BLP.pdf" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></p>
+</div>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:11483 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293114839</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed" style="width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;" colspan="2">
+<h4><br></h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">30/40/50
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">110
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">3300/4400/5500
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CCT</strong></td>
+<td style="padding-left: 12px;">4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">54000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+<p><span><br></span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED  Panel/ Lay In Fixtures</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:tag>LED Troffers</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4816519528542</id>
+      <title>Default Title</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku>BLP24/PS50/840/UD</s:sku>
+      <s:grams>4082</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4813020889182</id>
+    <published>2021-01-12T10:49:58-05:00</published>
+    <updated>2021-01-12T10:49:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/back-lit-panel-2x2-powerset-40-30-20w-110lpw-80cri-4000k-120-277v-0-10v-dimming"/>
+    <title>Back-Lit Panel 2x2 PowerSet 40/30/20W 110lpw 80CRI 4000K 120-277V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1384_519a2268-5ca4-454b-bcff-358aeb5d5217.jpg?v=1610466650"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            37.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Back-Lit Panel 2x2 PowerSet 40/30/20W 110lpw 80CRI 4000K 120-277V 0-10V Dimming</h3>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-33B%20BLP.pdf" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></p>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed" style="width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;" colspan="2">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">20/30/40
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">110
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">2200/3300/4400
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">54000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED 2x2 Retrofit</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4813020889182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">37.50</s:price>
+      <s:sku>BLP22/PS40/840/UD</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4761921650782</id>
+    <published>2020-10-01T15:44:01-04:00</published>
+    <updated>2020-10-01T15:44:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/volumetric-retrofit-2x2-powerset-39-32-24-19w-fieldccet-35-40-5000k-120-347v-0-10v-dimming"/>
+    <title>Volumetric Retrofit 2x2 PowerSet 39/32/24/19W FieldCCeT 35/40/5000K 120-347V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1467_f7f39434-cc8c-44a2-9d2e-099333d9f109.jpg?v=1601581475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            52.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Volumetric Retrofit 2x2 PowerSet 39/32/24/19W FieldCCeT 35/40/5000K 120-347V 0-10V Dimming</h3>
+<div class="col-sm-4 col-md-5 md-margin-bottom-50">
+<div style="position: relative;" class="ms-showcase2-template">
+<div style="visibility: visible; opacity: 1; margin: 0px;" id="masterslider" class="master-slider ms-skin-light-3 ms-moz"><br></div>
+</div>
+</div>
+<div class="col-sm-8 col-md-7 product-detail">
+<div class="product-heading">
+<h2 class="hidden-xs">VOL22R/PS39/FCCT/HD <img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png" style="border: 0px; padding-right: 2px;"> <img src="https://www.eiko.com/Content/flags/flags/16/Canada.png" style="border: 0px; padding-right: 2px;">
+</h2>
+<a href="https://www.eiko.com/sharedassets/productdocuments/L-88C%20VOL%20Retrofit%20PS%20FCCT.pdf" target="_blank"><img src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a><br>
+</div>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:11061 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293110619</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed" style="width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;" colspan="2">
+<h4><br></h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~347
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">130
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">3500/4000/5000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, DLC-P, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color Select</s:tag>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED 2x4 Retrofit</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4761921650782</id>
+      <title>Default Title</title>
+      <s:price currency="USD">52.50</s:price>
+      <s:sku>VOL22R/PS39/FCCT/HD</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4761688670302</id>
+    <published>2020-10-01T10:46:25-04:00</published>
+    <updated>2020-10-01T10:46:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/volumetric-retrofit-2x4-powerset-49-39-34-29w-fieldccet-35-40-5000k-120-277v-0-10v-dimming"/>
+    <title>Volumetric Retrofit 2x4 PowerSet 49/39/34/29W FieldCCeT 35/40/5000K 120-277V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1468_560b0f1e-aa8f-489c-860e-8f0f17a41e4b.jpg?v=1601563628"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            85.66
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="box-sizing: border-box; border-radius: 0px; font-family: 'Open Sans', Arial, sans-serif; font-weight: normal; line-height: 27px; color: #555555; margin-top: 5px; margin-bottom: 10px; font-size: 20px; text-shadow: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;" data-mce-fragment="1" data-mce-style="box-sizing: border-box; border-radius: 0px; font-family: 'Open Sans', Arial, sans-serif; font-weight: normal; line-height: 27px; color: #555555; margin-top: 5px; margin-bottom: 10px; font-size: 20px; text-shadow: none; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial;"><strong>Volumetric Retrofit 2x4 PowerSet 49/39/34/29W FieldCCeT 35/40/5000K 120-277V 0-10V Dimming</strong></h3>
+<div class="col-sm-4 col-md-5 md-margin-bottom-50">
+<div style="position: relative;" class="ms-showcase2-template">
+<div style="visibility: visible; opacity: 1; margin: 0px;" id="masterslider" class="master-slider ms-skin-light-3 ms-moz"><br></div>
+</div>
+</div>
+<div class="col-sm-8 col-md-7 product-detail">
+<div class="product-heading">
+<h2 class="hidden-xs">VOL24R/PS49/FCCT <img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png" style="border: 0px; padding-right: 2px;"> <img src="https://www.eiko.com/Content/flags/flags/16/Canada.png" style="border: 0px; padding-right: 2px;">
+</h2>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-88C%20VOL%20Retrofit%20PS%20FCCT.pdf" target="_blank"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></p>
+</div>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:11062 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293110626</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+</div>
+<div class="col-md-6"><br></div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="logo-listing">
+<img src="https://www.eiko.com/assets/logos/large/cULus.jpg" alt="cULus" width="52" height="52"> <img src="https://www.eiko.com/assets/logos/large/DLCP.jpg" alt="DLCP" width="45" height="45"> <img src="https://www.eiko.com/assets/logos/large/FCC.jpg" alt="FCC" width="42" height="42">
+</div>
+<div class="logo-listing">
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed" style="width: 100%;">
+<tbody>
+<tr>
+<td style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;" colspan="2">
+<h4><br></h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~347
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">130
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">3500/4000/5000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, DLC-P, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Color Select</s:tag>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED  Panel/ Lay In Fixtures</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED 2x4 Retrofit</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4761688670302</id>
+      <title>Default Title</title>
+      <s:price currency="USD">85.66</s:price>
+      <s:sku>VOL24R/PS49/FCCT</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4758573187166</id>
+    <published>2020-09-28T12:05:36-04:00</published>
+    <updated>2020-09-28T12:05:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/volumetric-troffer-2x4-powerset-50-40-32w-80cri-4000k-120-347v-0-10v-dimming"/>
+    <title>Volumetric Troffer 2x4 PowerSet 50/40/32W 80CRI 4000K 120-347V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1428.jpg?v=1601309185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Volumetric Troffer 2x4 PowerSet 50/40/32W 80CRI 4000K 120-347V 0-10V Dimming</h3>
+<div class="product-heading">
+<h2 class="hidden-xs">VOL24/PS50/840/HD<span> </span><img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"><span> </span><img src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+<h2 class="hidden-xs"><a href="https://www.eiko.com/sharedassets/productdocuments/L-88B%20VOL%20PowerSet%20FieldCCeT.pdf" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></h2>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span>Ordering Code:10997</span></li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UPC Code:<span> </span><span>031293109972</span>
+</li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UNSPSC:<span> </span><span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2">
+<h4><br></h4>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Rating</strong></td>
+<td>120-347
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Type</strong></td>
+<td>AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Watts</strong></td>
+<td>32/40/50
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens per Watt</strong></td>
+<td>130
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens</strong></td>
+<td>4000/5000/6250
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CT deg K</strong></td>
+<td>4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CRI</strong></td>
+<td>80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Rated Life</strong></td>
+<td>50000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Replaces</strong></td>
+<td>VOL-5CP-40K-U
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Ambient Operating Temp Range</strong></td>
+<td>-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Approvals</strong></td>
+<td>cULus, DLC, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED 2x2 Retrofit</s:tag>
+    <s:tag>LED 2x4 Retrofit</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:tag>Volumetric Troffer</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4758573187166</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.00</s:price>
+      <s:sku>VOL24/PS50/840/HD</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4758564864094</id>
+    <published>2020-09-28T11:54:51-04:00</published>
+    <updated>2020-09-28T11:54:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/volumetric-troffer-2x2-powerset-40-32-26w-80cri-4000k-120-347v-0-10v-dimming"/>
+    <title>Volumetric Troffer 2x2 PowerSet 40/32/26W 80CRI 4000K 120-347V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1427_1.jpg?v=1601308542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Volumetric Troffer 2x2 PowerSet 40/32/26W 80CRI 4000K 120-347V 0-10V Dimming</h3>
+<div class="product-heading">
+<h2 class="hidden-xs">VOL22/PS40/840/HD<span> </span><img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"><span> </span><img src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+<h2 class="hidden-xs"><a href="https://www.eiko.com/sharedassets/productdocuments/L-88B%20VOL%20PowerSet%20FieldCCeT.pdf" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></h2>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UPC Code:<span> </span><span>031293109934</span>
+</li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UNSPSC:<span> </span><span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2">
+<h4><br></h4>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Rating</strong></td>
+<td>120-347
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Type</strong></td>
+<td>AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Watts</strong></td>
+<td>26/32/40
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens per Watt</strong></td>
+<td>130
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens</strong></td>
+<td>3250/4000/5000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CT deg K</strong></td>
+<td>4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CRI</strong></td>
+<td>80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Rated Life</strong></td>
+<td>50000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Replaces</strong></td>
+<td>VOL-3CP-40K-U
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Ambient Operating Temp Range</strong></td>
+<td>-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Approvals</strong></td>
+<td>cULus, DLC, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED 2x2 Retrofit</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:tag>Volumetric Troffer</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4758564864094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">47.00</s:price>
+      <s:sku>VOL22/PS40/840/HD</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4758558998622</id>
+    <published>2020-09-28T11:45:48-04:00</published>
+    <updated>2020-09-28T11:45:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/back-lit-panel-2x4-5000lm-40w-125lpw-80cri-4000k-120-277v-dimming"/>
+    <title>Back-Lit Panel 2x4 5000lm 40W 125lpw 80CRI 4000K 120-277V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1385_1.jpg?v=1601307976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            64.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Back-Lit Panel 2x4 5000lm 40W 125lpw 80CRI 4000K 120-277V Dimming</h3>
+<div class="product-heading">
+<h2 class="hidden-xs">BLP24-50/40W/840-U-D<span> </span><img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png">
+</h2>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-33%20BLP.pdf" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></p>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span>Ordering Code:10848</span></li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UPC Code:<span> </span><span>031293108487</span>
+</li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UNSPSC:<span> </span><span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Rating</strong></td>
+<td>120~277
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Type</strong></td>
+<td>AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Watts</strong></td>
+<td>40
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens per Watt</strong></td>
+<td>125
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens</strong></td>
+<td>5000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CT deg K</strong></td>
+<td>4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CRI</strong></td>
+<td>80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Rated Life</strong></td>
+<td>54000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Ambient Operating Temp Range</strong></td>
+<td>-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Approvals</strong></td>
+<td>cULus, DLC-P, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED 2x4 Retrofit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4758558998622</id>
+      <title>Default Title</title>
+      <s:price currency="USD">64.00</s:price>
+      <s:sku>BLP24-50/40W/840-U-D</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4758541336670</id>
+    <published>2020-09-28T11:30:45-04:00</published>
+    <updated>2020-09-28T11:30:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/back-lit-panel-2x2-3750lm-30w-125lpw-80cri-4000k-120-277v-dimming"/>
+    <title>Back-Lit Panel 2x2 3750lm 30W 125lpw 80CRI 4000K 120-277V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1384.jpg?v=1601307091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Back-Lit Panel 2x2 3750lm 30W 125lpw 80CRI 4000K 120-277V Dimming</h3>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></p>
+<div class="product-heading">
+<h2 class="hidden-xs">BLP22-37/30W/840-U-D<span> </span><img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"><span> </span><img src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+</div>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span>Ordering Code:10845</span></li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UPC Code:<span> </span><span>031293108456</span>
+</li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UNSPSC:<span> </span><span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2">
+<h4><br></h4>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Rating</strong></td>
+<td>120~277
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Type</strong></td>
+<td>AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Watts</strong></td>
+<td>30
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens per Watt</strong></td>
+<td>123
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens</strong></td>
+<td>3700
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CT deg K</strong></td>
+<td>4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CRI</strong></td>
+<td>80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Rated Life</strong></td>
+<td>54000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Ambient Operating Temp Range</strong></td>
+<td>-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Approvals</strong></td>
+<td>cULus, DLC-P, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED 2x2 Retrofit</s:tag>
+    <s:tag>LED Office Lighting</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4758541336670</id>
+      <title>Default Title</title>
+      <s:price currency="USD">39.00</s:price>
+      <s:sku>BLP22-37/30W/840-U-D</s:sku>
+      <s:grams>1814</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4749148160094</id>
+    <published>2020-09-18T10:13:41-04:00</published>
+    <updated>2020-09-18T10:13:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/volumetric-retrofit-2x4-powerset-49-39-34-29w-4000k-120-277v-0-10v-dimming"/>
+    <title>Volumetric Retrofit 2x4 PowerSet 49/39/34/29W 4000K 120-277V 0-10V Dimming</title>
+    <s:type>LED Recessed Retrofit Kits</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1468.jpg?v=1600438467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Recessed Retrofit Kits<br>
+        <strong>Price: </strong>
+            69.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">Volumetric Retrofit 2x4 PowerSet 49/39/34/29W 4000K 120-277V 0-10V Dimming</h3>
+<div class="product-heading">
+<h2 class="hidden-xs">VOL24R/PS49/840/UD<span> </span><img src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"><span> </span><img src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+</div>
+<h3><a href="https://www.eiko.com/sharedassets/productdocuments/L-88C%20VOL%20Retrofit%20PS%20FCCT.pdf" target="_blank" rel="noopener noreferrer"><img alt="" src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802"></a></h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span>Ordering Code:11057</span></li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UPC Code:<span> </span><span>031293110572</span>
+</li>
+<li>
+<i class="fa fa-caret-right"></i><span> </span>UNSPSC:<span> </span><span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Rating</strong></td>
+<td>120~277
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Voltage Type</strong></td>
+<td>AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Lumens per Watt</strong></td>
+<td>130
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CT deg K</strong></td>
+<td>4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>CRI</strong></td>
+<td>80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Rated Life</strong></td>
+<td>50000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Ambient Operating Temp Range</strong></td>
+<td>-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td><strong>Approvals</strong></td>
+<td>cULus, DLC-P, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED 2x4 Retrofit</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4749148160094</id>
+      <title>Default Title</title>
+      <s:price currency="USD">69.50</s:price>
+      <s:sku>VOL24R/PS49/840/UD</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4732793749598</id>
+    <published>2020-09-01T13:35:34-04:00</published>
+    <updated>2020-09-01T13:35:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/volumetric-retrofit-2x2-powerset-39-32-24-19w-4000k-120-277v-0-10v-dimming"/>
+    <title>Volumetric Retrofit 2x2 PowerSet 39/32/24/19W 4000K 120-277V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1467_adb82fac-b6c7-47be-94bd-6e0b460f5c8f.jpg?v=1598981779"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>Volumetric Retrofit 2x2 PowerSet 39/32/24/19W 4000K 120-277V 0-10V Dimming</h3>
+<h2 class="hidden-xs">VOL22R/PS39/840/UD <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png">
+</h2>
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:11053 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293110534</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-88C%20VOL%20Retrofit%20PS%20FCCT.pdf" target="_blank" rel="noopener noreferrer"><span><img src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802" alt=""></span></a></p>
+<div class="col-xs-12">
+<div class="logo-listing">
+<img alt="cULus" src="https://www.eiko.com/assets/logos/large/cULus.jpg" width="56" height="56"> <img alt="DLCP" src="https://www.eiko.com/assets/logos/large/DLCP.jpg" width="51" height="51"> <img alt="FCC" src="https://www.eiko.com/assets/logos/large/FCC.jpg" width="49" height="49"> <img alt="RoHS" src="https://www.eiko.com/assets/logos/large/RoHS.jpg" width="52" height="52">
+</div>
+<div class="logo-listing">
+<div class="row product-detail">
+<div class="col-sm-4 col-md-5 md-margin-bottom-50">
+<div class="ms-showcase2-template" style="position: relative;">
+<div class="master-slider ms-skin-light-3 ms-moz" id="masterslider" style="visibility: visible; opacity: 1; margin: 0px;"><br></div>
+</div>
+</div>
+<div class="col-sm-8 col-md-7 product-detail">
+<div class="product-heading ">
+<h2 class="hidden-xs">VOL22R/PS39/840/UD <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"> <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+<ul class="list-inline pull-right">
+<li>
+</li>
+</ul>
+</div>
+<h3>Volumetric Retrofit 2x2 PowerSet 39/32/24/19W 4000K 120-277V 0-10V Dimming</h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:11053 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293110534</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<div class="hidden-xs hidden-sm">
+<div class="panel panel-success margin-top-20">
+<div class="panel-heading">
+<h3 class="panel-title">
+<i class="fa fa-dollar"></i> Pricing</h3>
+</div>
+<table class="table">
+<thead>
+<tr>
+<th></th>
+<th>Bgn Qty</th>
+<th>U of M</th>
+<th>Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>1</td>
+<td>EA</td>
+<td>$33.78</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div>
+<div class="headline headline-md" style="margin-bottom: 0px; border-bottom: 0px; padding-bottom: 2px;">
+<h3 id="inventory-detail">Inventory</h3>
+</div>
+<table class="table table-bordered table-condensed">
+<tbody>
+<tr>
+<td style="vertical-align: top; width: 100px;"><strong>KC </strong></td>
+<td style="vertical-align: top; width: 100%;">1360</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+<div class="col-md-6">
+<h3 class="sub-product-title no-margin">Available</h3>
+<div class="no-margin"><span class="product-quantity-value">1,360 </span></div>
+<table></table>
+<h3 class="sub-product-title">Add to Cart</h3>
+<div><form class="sm-margin-bottom-20"><input type="text" class="quantity-field" name="qty" id="qty"></form></div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="logo-listing">
+<img alt="cULus" src="https://www.eiko.com/assets/logos/large/cULus.jpg"> <img alt="DLCP" src="https://www.eiko.com/assets/logos/large/DLCP.jpg"> <img alt="FCC" src="https://www.eiko.com/assets/logos/large/FCC.jpg"> <img alt="RoHS" src="https://www.eiko.com/assets/logos/large/RoHS.jpg">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table style="width: 100%;" class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2" style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">130
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, DLC-P, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED 2x2 Retrofit</s:tag>
+    <s:tag>Led Basket Fixtures</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4732793749598</id>
+      <title>Default Title</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>VOL22R/PS39/840/UD</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/4429333659742</id>
+    <published>2020-02-04T10:23:20-05:00</published>
+    <updated>2020-02-04T10:23:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/back-lit-panel-2x4-4200lm-40w-105lpw-80cri-4000k-120-277v-dimming"/>
+    <title>Back-Lit Panel 2x4 4200lm 40W 105lpw 80CRI 4000K 120-277V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1385.jpg?v=1580832554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            65.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><br>
+<div class="product-heading ">
+<div class="row product-detail">
+<div class="col-sm-8 col-md-7 product-detail">
+<h3>Back-Lit Panel 2x4 4200lm 40W 105lpw 80CRI 4000K 120-277V Dimming</h3>
+<h2 class="hidden-xs">BLP24-42/40W/840-U-D <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png">
+</h2>
+<p><a href="%20BLP24-42/40W/840-U-D%20%20Back-Lit%20Panel%202x4%204200lm%2040W%20105lpw%2080CRI%204000K%20120-277V%20Dimming%20%20%20%20%20%20Ordering%20Code:10842%20%20%20%20%20UPC%20Code:%20031293108425%20%20%20%20%20UNSPSC:%2039111544%20%20Pricing%20%09Bgn%20Qty%20%09U%20of%20M%20%09Price%20%091%20%09EA%20%09%2445.48%20Inventory%20KC%20%093635%20NJ%20%09153%20Available%203,788%20Add%20to%20Cart%20cULus%20DLC%20FCC%20RoHS%20Specifications%20General%20Voltage%20Rating%09120~277%20Voltage%20Type%09AC%20Watts%0940%20Lumens%20per%20Watt%09105%20Lumens%094200%20CT%20deg%20K%094000%20CRI%0980+%20Rated%20Life%0954000%20Ambient%20Operating%20Temp%20Range%09-20%C2%B0%20C%20(-4%C2%B0%20F)%20to%2040%C2%B0%20C%20(104%C2%B0%20F)%20Approvals%09cULus,%20DLC,%20FCC,%20RoHS%20Compliant" target="_blank" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_100x100.jpg?v=1517027802" alt=""></a></p>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:10842 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293108425</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<div class="hidden-xs hidden-sm">
+<div class="panel panel-success margin-top-20">
+<div class="panel-heading">
+<h3 class="panel-title"> <br>
+</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12">
+<div class="logo-listing">
+<img alt="cULus" src="https://www.eiko.com/assets/logos/large/cULus.jpg" width="52" height="52"> <img alt="DLC" src="https://www.eiko.com/assets/logos/large/DLC.jpg" width="53" height="53"> <img alt="FCC" src="https://www.eiko.com/assets/logos/large/FCC.jpg" width="53" height="53"> <img alt="RoHS" src="https://www.eiko.com/assets/logos/large/RoHS.jpg" width="48" height="48">
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-md-6">
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table style="width: 100%;" class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2" style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">40
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">105
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">4200
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">4000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80+
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">54000
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 40° C (104° F)
+<div><br></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, DLC, FCC, RoHS Compliant</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back-Lit Panel</s:tag>
+    <s:tag>Ceiling Fixtures</s:tag>
+    <s:tag>DesignLights Consortium</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED Troffers</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/4429333659742</id>
+      <title>Default Title</title>
+      <s:price currency="USD">65.50</s:price>
+      <s:sku>BLP24-42/40W/840-U-D</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/3934623662174</id>
+    <published>2019-07-25T12:15:19-04:00</published>
+    <updated>2019-07-25T12:15:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/slm24-surface-mounting-kit"/>
+    <title>SLM24 Surface Mounting Kit</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1303.jpg?v=1564071602"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            56.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>SLM24-SMK-A <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"> <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h3>
+<h3>SLM24 Surface Mounting Kit</h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:10365 </span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293103659</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111817</span>
+</li>
+</ul>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/SLM%20Instructions.pdf" target="_blank" rel="noopener noreferrer"><span><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_compact.jpg?v=1517027802" alt=""></span></a></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED  Panel/ Lay In Fixtures</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:tag>Surface Mount Kits</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/3934623662174</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.28</s:price>
+      <s:sku>SLM24 Surface Mounting Kit</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/1469841113182</id>
+    <published>2018-10-03T09:11:48-04:00</published>
+    <updated>2018-10-03T09:11:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/slim-panel-2x4-4000lm-100lpw-4000k-40w-120-277v-0-10v-dimming"/>
+    <title>Slim Panel 2x4 4000lm 100LPW 4000K 40W 120-277V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1188_8a31be3f-9e4d-4162-9518-d3d16e7cd29e.jpg?v=1538572600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            104.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-heading ">
+<h2 class="hidden-xs">SLM24-40/A0/840-U-D <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"> <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+</div>
+<h3>Slim Panel 2x4 4000lm 100LPW 80CRI 4000K 40W 120-277V 0-10V Dimming</h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:10212</span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293102126</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-89C%20LitespanLED(R)%20SLM%20web.pdf" target="_blank" rel="noopener noreferrer"><span><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_small.jpg?v=1517027802" alt=""></span></a></p>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table style="width: 100%;" class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2" style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;">
+<h4></h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">40
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">100
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">4000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">4000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Replaces</strong></td>
+<td style="padding-left: 12px;">SLM24-5C-40K-U, SLM24-4CB-40K-U
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 50° C (122° F)
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, FCC</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED  Panel/ Lay In Fixtures</s:tag>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:tag>LED Edge Lit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/1469841113182</id>
+      <title>Default Title</title>
+      <s:price currency="USD">104.86</s:price>
+      <s:sku>SLM24-40/A0/840-U-D</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/1465745473630</id>
+    <published>2018-09-26T14:55:54-04:00</published>
+    <updated>2018-09-26T14:55:54-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/slim-panel-2x2-4000lm-100lpw-80cri-3500k-40-watt-0-10v-dimming"/>
+    <title>Slim Panel 2x2 4000lm 100LPW 80CRI 3500K 40 Watt 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1187.jpg?v=1537988432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            56.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="col-sm-4 col-md-5 md-margin-bottom-50">
+<div class="ms-showcase2-template" style="position: relative;">
+<div class="master-slider ms-skin-light-3 ms-moz" id="masterslider" style="visibility: visible; opacity: 1; margin: 0px;"></div>
+</div>
+</div>
+<div class="col-sm-8 col-md-7 product-detail">
+<div class="product-heading ">
+<h2 class="hidden-xs">SLM22-40/A0/835-U-D <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"> <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+</div>
+<div class="product-heading "><a href="https://www.eiko.com/sharedassets/productdocuments/L-89C%20LitespanLED(R)%20SLM%20web.pdf" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_small.jpg?v=1517027802" alt=""></a></div>
+</div>
+<h3>Slim Panel 2x2 4000lm 100LPW 80CRI 3500K 40W 120-277V 0-10V Dimming</h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:10205</span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293102058</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table style="width: 100%;" class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2" style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;">
+<h4></h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">40
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">100
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">4000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">3500
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 50° C (122° F)
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, FCC</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<strong><br></strong></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED  Panel/ Lay In Fixtures</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:tag>LED Edge Lit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/1465745473630</id>
+      <title>Default Title</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku>SLM22-40/A0/835-U-D</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/1465735905374</id>
+    <published>2018-09-26T14:32:25-04:00</published>
+    <updated>2018-09-26T14:32:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/40-watt-slim-panel-2x2-4000-lumens-5000k-0-10v-dimming"/>
+    <title>40 Watt Slim Panel 2x2- 4000 Lumens, 5000K, 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1187_23d6c9ef-7f51-42b5-b14a-ac740b664b8f.jpg?v=1548182705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            62.22
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-heading ">
+<h2 class="hidden-xs">SLM22-40/A0/850-U-D <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"> <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+<p><a href="https://www.eiko.com/sharedassets/productdocuments/L-89C%20LitespanLED(R)%20SLM%20web.pdf" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_small.jpg?v=1517027802" alt=""></a></p>
+</div>
+<h3>Slim Panel 2x2 4000lm 100LPW 80CRI 5000K 40W 120-277V 0-10V Dimming</h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:10207</span></li>
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293102072</span>
+</li>
+<li>
+<i class="fa fa-caret-right"> </i> UNSPSC: <span>39111544</span>
+</li>
+</ul>
+<div class="headline headline-md">
+<h3>Specifications</h3>
+</div>
+<table style="width: 100%;" class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2" style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;">
+<h4></h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">40
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">100
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">4000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">5000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Replaces</strong></td>
+<td style="padding-left: 12px;">SLM22-3CB-50K-U
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 50° C (122° F)
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, FCC</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED  Panel/ Lay In Fixtures</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED Ceiling Fixtures</s:tag>
+    <s:tag>LED Edge Lit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/1465735905374</id>
+      <title>Default Title</title>
+      <s:price currency="USD">62.22</s:price>
+      <s:sku>SLM22-40/A0/850-U-D</s:sku>
+      <s:grams>2722</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/1457629397086</id>
+    <published>2018-09-13T11:06:53-04:00</published>
+    <updated>2018-09-13T11:06:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/slim-panel-2x4-4000lm-100lpw-3500k-40-watt-120-277v-0-10v-dimming"/>
+    <title>Slim Panel 2x4 4000lm 100LPW 3500K 40 Watt 120-277V 0-10V Dimming</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1188.jpg?v=1536851492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Slim Panel 2x4 4000lm 100LPW 3500K 40 Watt 120-277V 0-10V Dimming</strong></p>
+<p> </p>
+<li><strong><span style="font-size: 18px; color: #999; font-weight: bold;">Ordering Code:10211</span></strong></li>
+<li><strong><i class="fa fa-caret-right"> </i> UPC Code: <span>031293102119</span></strong></li>
+<li><a href="https://www.eiko.com/sharedassets/productdocuments/L-89C%20LitespanLED(R)%20SLM%20web.pdf" target="_blank" rel="noopener noreferrer"><strong><span><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_small.jpg?v=1517027802" alt=""></span></strong></a></li>
+<li><strong><span></span></strong></li>
+<li>
+<table style="width: 100%;" class="table table-condensed">
+<tbody>
+<tr>
+<td colspan="2" style="border-top: 0px; background: none repeat scroll 0 0 #F7F7F7;">
+<h4>General</h4>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Rating</strong></td>
+<td style="padding-left: 12px;">120~277
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Voltage Type</strong></td>
+<td style="padding-left: 12px;">AC
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Watts</strong></td>
+<td style="padding-left: 12px;">40
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens per Watt</strong></td>
+<td style="padding-left: 12px;">100
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Lumens</strong></td>
+<td style="padding-left: 12px;">4000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CT deg K</strong></td>
+<td style="padding-left: 12px;">3500
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>CRI</strong></td>
+<td style="padding-left: 12px;">80
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Rated Life</strong></td>
+<td style="padding-left: 12px;">50000
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Replaces</strong></td>
+<td style="padding-left: 12px;">SLM24-5C-35K-U, SLM24-4CB-35K-U
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Ambient Operating Temp Range</strong></td>
+<td style="padding-left: 12px;">-20° C (-4° F) to 50° C (122° F)
+<div></div>
+</td>
+</tr>
+<tr>
+<td style="width: 190px; padding: 2px 12px 0px 8px;"><strong>Approvals</strong></td>
+<td style="padding-left: 12px;">cULus, FCC</td>
+</tr>
+</tbody>
+</table>
+</li>
+<li><strong><span></span></strong></li>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED Edge Lit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:tag>LED Troffers</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/1457629397086</id>
+      <title>Default Title</title>
+      <s:price currency="USD">81.00</s:price>
+      <s:sku>SLM24-40/A0/835-U-D</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/1457167859806</id>
+    <published>2018-09-12T15:06:51-04:00</published>
+    <updated>2018-09-12T15:06:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/flatmax-led-flat-panel-2x2-20w-4000k-with-bi-level-motion-sensor"/>
+    <title>Flatmax LED Flat Panel 2X2 20W 4000K With BI-LEVEL Motion Sensor</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>MaxLite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1187_6a65bf0d-f995-42f5-99aa-f6f8305d256f.jpg?v=1536781688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MaxLite<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Flatmax LED Flat Panel 2X2 20W 4000K With BI-LEVEL Motion Sensor</strong></p>
+<div class="featuresBox">
+<div class="featuresTitle"><a href="https://websvc.maxlite.com/api/items/documents/MLFP22EP2040MS?type=datasheet" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_small.jpg?v=1517027802" alt=""></a></div>
+<div class="featuresTitle"></div>
+<div class="featuresTitle">Features</div>
+<ul>
+<li>Even light distribution</li>
+<li>LM-80-rated chips ensure color uniformity</li>
+<li>Dimmable</li>
+<li>Cool operation</li>
+<li>Environmentally friendly</li>
+<li>Body provides heat sink and thermal control capabilities</li>
+<li>50,000 hour life</li>
+<li>Flat Panels can be linked</li>
+<li>Installation depth of just 2.3 inches</li>
+</ul>
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td class="specsNames">Dimming compatible</td>
+<td width="20"> </td>
+<td class="specsNameData">Y</td>
+</tr>
+<tr>
+<td class="specsNames">0-10V Dimming</td>
+<td width="20"> </td>
+<td class="specsNameData">Y</td>
+</tr>
+<tr>
+<td class="specsNames">Product Weight (lbs.)</td>
+<td width="20"> </td>
+<td class="specsNameData">4.19</td>
+</tr>
+<tr>
+<td class="specsNames">Product Depth (Inches)</td>
+<td width="20"> </td>
+<td class="specsNameData">0.37</td>
+</tr>
+<tr>
+<td class="specsNames">Product Height (Inches)</td>
+<td width="20"> </td>
+<td class="specsNameData">23.74</td>
+</tr>
+<tr>
+<td class="specsNames">Product Width (Inches)</td>
+<td width="20"> </td>
+<td class="specsNameData">23.74</td>
+</tr>
+<tr>
+<td class="specsNames">L70 Life (Hours)</td>
+<td width="20"> </td>
+<td class="specsNameData">50000</td>
+</tr>
+<tr>
+<td class="specsNames">Warranty (Years)</td>
+<td width="20"> </td>
+<td class="specsNameData">5</td>
+</tr>
+<tr>
+<td class="specsNames">DLC Premium</td>
+<td width="20"> </td>
+<td class="specsNameData">Y</td>
+</tr>
+</tbody>
+</table>
+<table width="531" height="173" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr>
+<td class="specsNames" style="width: 413.983px;">Input Wattage</td>
+<td style="width: 20px;"> </td>
+<td class="specsNameData" style="width: 121.15px;">18.8</td>
+</tr>
+<tr>
+<td class="specsNames" style="width: 413.983px;">Input Voltage Range (V)</td>
+<td style="width: 20px;"> </td>
+<td class="specsNameData" style="width: 121.15px;">120-277</td>
+</tr>
+<tr>
+<td class="specsNames" style="width: 413.983px;">Delivered Lumens (lm)</td>
+<td style="width: 20px;"> </td>
+<td class="specsNameData" style="width: 121.15px;">2416</td>
+</tr>
+<tr>
+<td class="specsNames" style="width: 413.983px;">Efficacy (lm/W)</td>
+<td style="width: 20px;"> </td>
+<td class="specsNameData" style="width: 121.15px;">129.0</td>
+</tr>
+<tr>
+<td class="specsNames" style="width: 413.983px;">Color Rendering Index (CRI)</td>
+<td style="width: 20px;"> </td>
+<td class="specsNameData" style="width: 121.15px;">80</td>
+</tr>
+<tr>
+<td class="specsNames" style="width: 413.983px;">Color Temperature (CCT)</td>
+<td style="width: 20px;"> </td>
+<td class="specsNameData" style="width: 121.15px;">4000</td>
+</tr>
+<tr>
+<td class="specsNames" style="width: 413.983px;">
+<p>Power Factor</p>
+</td>
+<td style="width: 20px;"> </td>
+<td class="specsNameData" style="width: 121.15px;">0.90</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED 2x2 Retrofit</s:tag>
+    <s:tag>Motion Sensor</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/1457167859806</id>
+      <title>Default Title</title>
+      <s:price currency="USD">115.00</s:price>
+      <s:sku>MLFP22EP2040MS</s:sku>
+      <s:grams>3175</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/1411896377438</id>
+    <published>2018-07-31T14:43:44-04:00</published>
+    <updated>2018-07-31T14:43:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/lithonia-led-low-profile-34-watt-1x4-troffer-4062-lumens-4000k"/>
+    <title>Lithonia LED Low Profile 34 Watt 1x4 Troffer, 4062 Lumens- 4000K</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Lithonia Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/lit1x4.jpeg?v=1533063450"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lithonia Lighting<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            109.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 class="smaller">Lithonia LED Low Profile 34 Watt 1x4 Troffer, 4062 Lumens- 4000K</h2>
+<p><span id="ctl00_cph1_mstr_cph_lbl1">The BLT is a center-basket troffer featuring a contemporary design and high-efficiency LED technology. The fixture's shallow depth allows for easy installation and multiple control options offer versatility for configuration—all backed by reliable Lithonia Lighting® performance. The attractively-priced BLT is your best-in-value ambient lighting solution for office, retail, healthcare and other commercial projects.</span></p>
+<h3>Specifications</h3>
+<div class="row">
+<div class="columns small-12 medium-6">
+<table role="presentation">
+<tbody>
+<tr>
+<td>
+<strong>Brand</strong>:</td>
+<td>Lithonia Lighting</td>
+</tr>
+<tr>
+<td>
+<strong>MPN (Part No.)</strong>:</td>
+<td>BLT4 40L ADP LP840</td>
+</tr>
+<tr>
+<td>
+<strong>UPC</strong>:</td>
+<td>190887465228</td>
+</tr>
+<tr>
+<td>
+<strong>Dimmable</strong>:</td>
+<td>
+<div class="mz-property-value"><span data-property-value="0-10V-Dimming">0-10V Dimming</span></div>
+</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="Is this a DesignLights Consortium™ qualified high-performance LED product?">DLC Listed</span></strong>:</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td><strong> Certifications</strong></td>
+<td>
+<div class="mz-property-value">
+<span data-property-value="CSA">CSA</span> <span data-property-value="LM79">LM79</span>
+</div>
+</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="(Color Rendering Index) A measurement of the effect a light source has on the perceived color of objects and surfaces. High CRI light makes colors look natural and vibrant. Low CRI causes colors to appear washed out or even to take on a different hue.">CRI</span></strong>:</td>
+<td>82</td>
+</tr>
+<tr>
+<td>
+<strong>Color</strong>:</td>
+<td>Cool White</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="A measurement, represented in degrees Kelvin, which indicates whether a lamp has a warm or cool color appearance. Warm light sources (2000-3000K) appear more yellow while cool light sources (4000K or higher) feature more light in the blue spectrum.">Color Temperature</span></strong>:</td>
+<td>4000 Kelvin</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="The average rated life, in hours, a product can be expected to properly work.  For most light bulbs, average life hours are calculated by seeing when 50% of a group of lamps no longer work.  For LED bulbs, average life hours are calculated when the product">Life Hours</span></strong>:</td>
+<td>60,000</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="The rate at which energy is taken from an electrical system or dissipated by a load. Lamps are rated in watts to indicate power consumption.">Wattage</span></strong>:</td>
+<td>34 Watt</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="columns small-12 medium-6">
+<table role="presentation">
+<tbody>
+<tr>
+<td>
+<strong><span class="attribute_link" title="A measure of how much light the lamp is emitting near the beginning of its life.">Lumens</span></strong>:</td>
+<td>4062</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="A measure of electrical potential. Voltage is the force that pushes electrical current through a conductor.">Voltage</span></strong>:</td>
+<td>120/208/240/277</td>
+</tr>
+<tr>
+<td>
+<strong>Finish</strong>:</td>
+<td>
+<div class="mz-property-value"><span data-property-value="Matte-White">Matte White</span></div>
+</td>
+</tr>
+<tr>
+<td>
+<strong>Housing</strong>:</td>
+<td>Steel</td>
+</tr>
+<tr>
+<td>
+<strong>Mounting</strong>:</td>
+<td>Recessed</td>
+</tr>
+<tr>
+<td>
+<strong>Lens</strong>:</td>
+<td>Acrylic</td>
+</tr>
+<tr>
+<td>
+<strong>Length</strong>:</td>
+<td>47.75 in.</td>
+</tr>
+<tr>
+<td>
+<strong>Height</strong>:</td>
+<td>2.75 in.</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>:</td>
+<td>11.75 in.</td>
+</tr>
+<tr>
+<td>
+<strong>Weight</strong>:</td>
+<td>13 lbs.</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="A statement of manufacturer warranty.">Warranty</span></strong>:</td>
+<td>5 Years</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DLC Premium</s:tag>
+    <s:tag>LED 1x4 Fixtures</s:tag>
+    <s:tag>Led Basket Fixtures</s:tag>
+    <s:tag>LED Troffers</s:tag>
+    <s:tag>Low Profile</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/1411896377438</id>
+      <title>Default Title</title>
+      <s:price currency="USD">109.98</s:price>
+      <s:sku>BLT4 40L ADP LP840</s:sku>
+      <s:grams>5443</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/775511212138</id>
+    <published>2018-05-23T13:58:09-04:00</published>
+    <updated>2018-05-23T13:58:09-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/slm24-surface-mount-kit-white"/>
+    <title>SLM24 Surface Mount Kit White</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1241.jpg?v=1527098548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            28.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-heading ">
+<h2 class="hidden-xs">SLM24-SM <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"> <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+</div>
+<h3>SLM24 Surface Mount Kit White</h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293096951</span>
+</li>
+</ul>
+<p><span>Durable aluminum construction with white powder coat finish • Easy assembly and installation • Low profile design • Features additional space for emergency battery backup installation</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>LED Edge Lit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:tag>Surface Mount Kits</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/775511212138</id>
+      <title>Default Title</title>
+      <s:price currency="USD">28.50</s:price>
+      <s:sku>SLM24-SM</s:sku>
+      <s:grams>3629</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/775508721770</id>
+    <published>2018-05-23T13:52:07-04:00</published>
+    <updated>2018-05-23T13:52:07-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/slm22-surface-mount-kit-white"/>
+    <title>SLM22 Surface Mount Kit White</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Eiko</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/1240.jpg?v=1527098232"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Eiko<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            42.07
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="product-heading ">
+<h2 class="hidden-xs">SLM22-SM <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/United%20States%20of%20America.png"> <img style="border: 0px; padding-right: 2px;" src="https://www.eiko.com/Content/flags/flags/16/Canada.png">
+</h2>
+</div>
+<h3>SLM22 Surface Mount Kit Whit</h3>
+<div class="row margin-bottom-10">
+<div class="col-md-6">
+<ul class="list-unstyled specifies-list">
+<li>
+<i class="fa fa-caret-right"> </i> UPC Code: <span>031293096944</span>
+</li>
+</ul>
+<p> </p>
+<p><span> Durable aluminum construction with white powder coat finish • Easy assembly and installation • Low profile design • Features additional space for emergency battery backup installation</span></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED Edge Lit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:tag>Surface Mount Kits</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/775508721770</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.07</s:price>
+      <s:sku>SLM22-SM</s:sku>
+      <s:grams>2268</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/11171848650</id>
+    <published>2017-07-13T09:16:21-04:00</published>
+    <updated>2017-07-13T09:16:21-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/lithonia-lighting-recessed-led-2x4-basket-troffer-fixture-in-4000k"/>
+    <title>Lithonia Lighting Recessed LED 2x4 Basket Troffer Fixture in 4000K</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>Lithonia Lighting</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/2BLT4-46L-ADP-LP835-2_18905c7e-a62b-492c-8405-f3c84908b360.jpg?v=1499952334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lithonia Lighting<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            98.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="http://www.acuitybrandslighting.com/library/ll/documents/specsheets/2blt-2x4.pdf" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_small.jpg?v=1489588031" alt=""></a></p>
+<p><span id="ctl00_cph1_mstr_cph_lbl3">Volumetric illumination is achieved by creating an optimal mix of light to walls, partitions and vertical and horizontal work surfaces – rendering the interior space, objects and occupants in a more balanced, complimentary luminous environment. High performance extruded acrylic diffusers conceal LEDs and efficiently deliver light in a volumetric distribution. Four diffuser choices available - curved and square designs with linear prisms or a smooth frosted finish.</span></p>
+<p><span><span class="subHL">Installation</span></span></p>
+<p>The BLT’s low profile design of only 2 3/8" provides increased installation flexibility especially in restrictive plenum applications. The BLT fits into standard 15/16" and narrow 9/16" T-grid ceiling systems. Suitable for damp location.</p>
+<p><span id="ctl00_cph1_mstr_cph_lbl5"></span> <span><span class="subHL">Listings</span></span></p>
+<p> </p>
+<p>CSA Certified to meet U.S. and Canadian standards. DesignLights Consortium® (DLC) qualified product.</p>
+<p> </p>
+<p> </p>
+<table role="presentation">
+<tbody>
+<tr>
+<td>
+<strong>Length</strong>:</td>
+<td>47.75 in.</td>
+</tr>
+<tr>
+<td>
+<strong>Height</strong>:</td>
+<td>2.375 in.</td>
+</tr>
+<tr>
+<td>
+<strong>Width</strong>:</td>
+<td>23.75 in.</td>
+</tr>
+<tr>
+<td>
+<strong><span class="attribute_link" title="A statement of manufacturer warranty.">Warranty</span></strong>:</td>
+<td>5 Year</td>
+</tr>
+</tbody>
+</table></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED 2x4 Fixtures</s:tag>
+    <s:tag>Led Basket Fixtures</s:tag>
+    <s:tag>LED Troffers</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/11171848650</id>
+      <title>Default Title</title>
+      <s:price currency="USD">98.99</s:price>
+      <s:sku>2BLT4 40L ADSM EZ1 LP841</s:sku>
+      <s:grams>6804</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.greenlightingwholesale.com/products/10852701898</id>
+    <published>2017-06-02T14:54:56-04:00</published>
+    <updated>2017-06-02T14:54:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.greenlightingwholesale.com/products/maxlite-dimmable-30-watt-2x2-4100k-flat-panel-led-fixture"/>
+    <title>Maxlite 30 Watt 2x2 41K Flat Panel LED Fixture</title>
+    <s:type>LED Lighting Fixtures</s:type>
+    <s:vendor>MaxLite</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0280/3735/products/rtyi.jpg?v=1496430193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MaxLite<br>
+        <strong>Type: </strong>LED Lighting Fixtures<br>
+        <strong>Price: </strong>
+            57.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><a href="http://www.maxlite.com/datasheet/edge-lit-flat-panel-mlfp-g2" target="_blank" rel="noopener noreferrer"><img src="//cdn.shopify.com/s/files/1/0280/3735/files/pdf_download_icon_1_small.jpg?v=1489588031" alt=""></a></p>
+<div class="featuresBox">
+<div class="featuresTitle">Features</div>
+<ul>
+<li>Even light distribution</li>
+<li>LM-80-rated chips ensure color uniformity</li>
+<li>Dimmable</li>
+<li>Cool operation</li>
+<li>Environmentally friendly</li>
+<li>Body provides heat sink and thermal control capabilities</li>
+<li>50,000 hour life</li>
+<li>Flat Panels can be linked</li>
+<li>Installation depth of just 2.3 inches</li>
+</ul>
+<table width="567" height="237" cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Input Wattage</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">30.5</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Input Voltage Range (V)</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">120-277</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Delivered Lumens (lm)</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">3680.0</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Efficacy (lm/W)</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">120.0</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Color Rendering Index (CRI)</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">80</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Color Temperature (CCT)</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">4100</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Equivalent Wattage</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">3 x 17W T8</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Power Factor</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">0.90</td>
+</tr>
+<tr style="height: 22px;">
+<td class="specsNames" style="height: 22px; width: 391.317px;">Min. Ambient Temp (°F)</td>
+<td style="height: 22px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 22px; width: 158.683px;">-4</td>
+</tr>
+<tr style="height: 37px;">
+<td class="specsNames" style="height: 37px; width: 391.317px;">Max. Ambient Temp (°F)</td>
+<td style="height: 37px; width: 20px;"> </td>
+<td class="specsNameData" style="height: 37px; width: 158.683px;">
+<p>104</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED 2x2</s:tag>
+    <s:tag>LED Edge Lit</s:tag>
+    <s:tag>Led flat panel</s:tag>
+    <s:tag>LED Troffers</s:tag>
+    <s:variant>
+      <id>https://www.greenlightingwholesale.com/products/10852701898</id>
+      <title>Default Title</title>
+      <s:price currency="USD">57.25</s:price>
+      <s:sku>MLFP22EP3041</s:sku>
+      <s:grams>4536</s:grams>
+    </s:variant>
+  </entry>
+</feed>
